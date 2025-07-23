@@ -32,10 +32,4 @@ See `requirements.txt` for a list of required Python packages.
 If you encounter an error with `.wav` files, ensure they are in **Signed 16-bit PCM** format.
 You can convert audio files using [Audacity](https://www.audacityteam.org/).
 
-## Author
-
-- Kevin Mwenda
-
----
-
 **Enjoy exploring the unknown. Will you survive Dead Orbit?**
